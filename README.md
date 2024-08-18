@@ -34,7 +34,7 @@ O criptografador utiliza uma técnica simples de substituição para transformar
 
 1. **Clone o Repositório**:
     ```bash
-    git clone https://github.com/seuusuario/criptografador-de-texto.git
+    git clone [https://github.com/seuusuario/criptografador-de-texto.git](https://github.com/jrmesquita7/chalenge-encriptador.git)
     ```
 
 2. **Faça Suas Alterações**: Sinta-se à vontade para melhorar o código ou adicionar novas funcionalidades.
