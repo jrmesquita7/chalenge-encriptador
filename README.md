@@ -30,11 +30,6 @@ O criptografador utiliza uma técnica simples de substituição para transformar
 - `style.css`: Estilos e layout da página.
 - `script.js`: Lógica para criptografar e copiar o texto.
 
-## ✨ Demonstração
-
-![Demonstration](https://via.placeholder.com/500x300?text=Criptografador+em+A%C3%A7%C3%A3o)  
-*Veja o criptografador em ação!*
-
 ## 🤝 Como Contribuir
 
 1. **Clone o Repositório**:
